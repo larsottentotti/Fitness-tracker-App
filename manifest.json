@@ -1,6 +1,6 @@
 {
-  "name": "Sets & Splits",
-  "short_name": "Sets & Splits",
+  "name": "Fitness Tracker",
+  "short_name": "Fitness Tracker",
   "description": "Personal training log for gym, cardio, and body weight tracking.",
   "start_url": "./index.html",
   "scope": "./",
