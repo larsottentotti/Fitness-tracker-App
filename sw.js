@@ -1,4 +1,4 @@
-const CACHE_NAME = "sets-and-splits-v1";
+const CACHE_NAME = "fitness-tracker-v2";
 const ASSETS = [
   "./",
   "./index.html",

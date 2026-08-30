@@ -1,6 +1,6 @@
-# Sets & Splits — Android app package
+# Fitness Tracker — Android app package
 
-This is a **Progressive Web App (PWA)** version of Sets & Splits. It's not a
+This is a **Progressive Web App (PWA)** version of Fitness Tracker. It's not a
 compiled native Android app (I can't build/sign an actual .apk in this
 environment), but once hosted, it installs on Android from Chrome as a real
 app: its own icon on your home screen, opens full-screen with no browser
@@ -33,7 +33,7 @@ support to work — that's what these give you.
 1. Open the hosted URL in **Chrome** on your phone.
 2. Tap the **⋮** menu → **Add to Home screen** (or Chrome may prompt you
    with an "Install app" banner automatically).
-3. Confirm — you'll get a "Sets & Splits" icon on your home screen that
+3. Confirm — you'll get a "Fitness Tracker" icon on your home screen that
    opens like a normal app.
 
 ## 3. Your data
